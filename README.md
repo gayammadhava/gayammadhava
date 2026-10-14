@@ -84,7 +84,7 @@ Automated AWS infrastructure provisioning using Terraform and Infrastructure as 
 ## 📚 Currently Learning
 
 - Docker
-- Jenkins
+- GitHub Actions
 - Kubernetes
 - CI/CD Pipelines
 - Advanced Terraform
